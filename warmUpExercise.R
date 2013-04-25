@@ -11,8 +11,6 @@ A <<- array() # <<- is a global and <- is local
 #               and then set them accordingly. 
 
 # Type this at your prompt for a hint: ?diag
-A <<- diag(5)
-A
 
 
 
